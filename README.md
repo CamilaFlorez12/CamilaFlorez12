@@ -1,9 +1,5 @@
 <h1 align="center">💫 ¡Hola! Soy <span style="color:#c084fc;">Laura Camila Flórez Santos</span> 💫</h1>
 
-<p align="center">
-  <img src="https://i.postimg.cc/7Y9GmX3Z/banner-portafolio.png" alt="Banner de Camila Florez" width="80%">
-</p>
-
 
 <p align="center">
   👩‍💻 Desarrolladora Full Stack |🎨 Apasionada por el diseño y las experiencias web completas
@@ -84,8 +80,8 @@ También cuento con experiencia en **HTML, CSS y JavaScript**, lo que me permite
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07camilaflorezsantos&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=07camilaflorezsantos&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=CamilaFlorez12&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamilaFlorez12&theme=radical" width="48%">
 </p>
 
 ---
