@@ -5,21 +5,21 @@
 </p>
 
 <p align="center">
-  👩‍💻 Desarrolladora Full Stack | ⚙️ Especialista en Backend con Node.js, Express y MongoDB | 🎨 Apasionada por el diseño y las experiencias web completas
+  👩‍💻 Desarrolladora Full Stack |🎨 Apasionada por el diseño y las experiencias web completas
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-✨ Soy una **Desarrolladora Full Stack** con una fuerte orientación hacia el **backend**.  
+✨ Soy una **Desarrolladora Full Stack** 
 Me apasiona construir aplicaciones completas, desde la **lógica del servidor** hasta una **interfaz limpia y funcional**.  
 
 Mi especialidad está en **Node.js**, **Express** y **MongoDB**, creando APIs eficientes, seguras y escalables.  
 También cuento con experiencia en **HTML, CSS y JavaScript**, lo que me permite conectar perfectamente el backend con el frontend.
 
 - ⚙️ Me especializo en el desarrollo **backend** con **Node.js**, **Express** y **MongoDB**  
-- 💡 Domino **JavaScript avanzado**, **asincronía**, **manejo de APIs REST** y **validación con JWT**  
+- 💡 Domino **JavaScript**, **asincronía**, **manejo de APIs REST** 
 - 🎨 Tengo experiencia en **maquetación moderna**, **responsive design** y **UI/UX**  
 - 🧠 Disfruto estructurar código limpio, optimizar procesos y resolver problemas con lógica  
 - 💬 Mi objetivo es seguir creciendo como **desarrolladora backend**, contribuyendo a proyectos reales y de alto impacto  
