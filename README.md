@@ -5,21 +5,21 @@
 </p>
 
 <p align="center">
-  👩‍💻 Estudiante de <strong>Campuslands</strong> | 💡 Apasionada por el desarrollo, el diseño y el aprendizaje constante
+  👩‍💻 Estudiante en <strong>Campuslands</strong> | 💡 Apasionada por el desarrollo, el diseño y el aprendizaje continuo
 </p>
 
 ---
 
 ### 🌼 Sobre mí
 
-- 🎓 En formación como desarrolladora full stack
-- 🍞 Me encanta crear proyectos útiles y bonitos (como un sistema para panaderías 🍰)
-- 🎨 Fan del diseño web, lo visual y lo intuitivo
-- ✨ Motivada, creativa y siempre aprendiendo algo nuevo
+- 🎓 Actualmente me estoy formando como desarrolladora Full Stack
+- 🍞 Disfruto creando proyectos útiles y visualmente atractivos (como un sistema para panaderías 🍰)
+- 🎨 Me encanta el diseño web, la experiencia de usuario y la estética digital
+- 🚀 Soy proactiva, creativa y siempre estoy buscando nuevas formas de mejorar
 
 ---
 
-### 🛠️ Tecnologías que uso
+### 🛠️ Tecnologías y herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,12 +31,12 @@
 
 ---
 
-### 💻 Mis proyectos favoritos
+### 💻 Proyectos destacados
 
-| 🧩 Proyecto | Descripción | Tecnologías |
-|------------|-------------|-------------|
-| **Panadería Migajitas de Amor** 🥖 | Sistema de inventario hecho en Python para panaderías | `Python` |
-| **Hoja de Vida Web** 🌐 | CV moderno con HTML y CSS, ¡totalmente responsivo! | `HTML`, `CSS` |
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| **Panadería Migajitas de Amor** 🥖 | Sistema de inventario desarrollado en Python, orientado a pequeñas panaderías | `Python` |
+| **Hoja de Vida Web** 🌐 | Currículum interactivo y responsivo desarrollado con HTML y CSS | `HTML`, `CSS` |
 
 ---
 
@@ -49,11 +49,11 @@
 
 ---
 
-### 📬 ¿Hablamos?
+### 📬 ¡Conectemos!
 
 <p align="center">
   <a href="mailto:07camilaflorezsantos@gmail.com">
-    <img src="https://img.shields.io/badge/-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -61,5 +61,5 @@
 
 <p align="center">
   🌟 Gracias por visitar mi perfil. <br>
-  Si buscas a alguien con creatividad, pasión y muchas ganas de aprender… ¡aquí estoy! 🙋‍♀️
+  Si estás buscando a alguien con creatividad, pasión por la tecnología y muchas ganas de crecer profesionalmente… ¡hablemos! 🙋‍♀️
 </p>
