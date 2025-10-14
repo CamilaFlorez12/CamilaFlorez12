@@ -1,8 +1,9 @@
 <h1 align="center">💫 ¡Hola! Soy <span style="color:#c084fc;">Laura Camila Flórez Santos</span> 💫</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/Vd2Sx5b.png" alt="Banner de Camila Florez" width="80%">
+  <img src="https://i.postimg.cc/7Y9GmX3Z/banner-portafolio.png" alt="Banner de Camila Florez" width="80%">
 </p>
+
 
 <p align="center">
   👩‍💻 Desarrolladora Full Stack |🎨 Apasionada por el diseño y las experiencias web completas
@@ -83,8 +84,8 @@ También cuento con experiencia en **HTML, CSS y JavaScript**, lo que me permite
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07CamilaFlorezSantos&show_icons=true&theme=omni" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=07CamilaFlorezSantos&theme=omni" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=07camilaflorezsantos&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=07camilaflorezsantos&theme=radical" width="48%">
 </p>
 
 ---
@@ -108,7 +109,7 @@ También cuento con experiencia en **HTML, CSS y JavaScript**, lo que me permite
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/8lqL9sM.gif" width="150px" alt="Hello animation"><br>
+ <p align="center">
+  <img src="https://i.gifer.com/7efs.gif" width="150px" alt="Hello animation"><br>
   🌟 <strong>"El backend da vida a las ideas; el frontend las hace visibles."</strong> 🌟
 </p>
