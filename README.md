@@ -15,11 +15,11 @@ Me apasiona construir aplicaciones completas, desde la **lógica del servidor** 
 Mi especialidad está en **Node.js**, **Express** y **MongoDB**, creando APIs eficientes, seguras y escalables.  
 También cuento con experiencia en **HTML, CSS y JavaScript**, lo que me permite conectar perfectamente el backend con el frontend.
 
-- ⚙️ Me especializo en el desarrollo **backend** con **Node.js**, **Express** y **MongoDB**  
+- ⚙️ Me especializo en el desarrollo **fronted**   
 - 💡 Domino **JavaScript**, **asincronía**, **manejo de APIs REST** 
 - 🎨 Tengo experiencia en **maquetación moderna**, **responsive design** y **UI/UX**  
 - 🧠 Disfruto estructurar código limpio, optimizar procesos y resolver problemas con lógica  
-- 💬 Mi objetivo es seguir creciendo como **desarrolladora backend**, contribuyendo a proyectos reales y de alto impacto  
+- 💬 Mi objetivo es seguir creciendo como **desarrolladora fronted**, contribuyendo a proyectos reales y de alto impacto  
 
 ---
 
